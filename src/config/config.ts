@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Murmured prayer',
-    title: 'Hindu boy beef eater | food chain saviour',
+    name: 'Agastya Pallavi Shethia',
+    title: 'GOAT',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
       'Big boy.\n' +
       '\n' +
-      'BJP🪷🪷🪷\n' +
+      'hi\n' +
       '\n' +
-      'NO EDUCATION, TEA STALL ON PLATFORM\n' +
+      'Christ (Deemed to be University) Bannerghatta Road Campus\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'BBC lover',
-    location: 'Ahmedabad, India',
+      'Optional: CPCG Best',
+    tagline: 'supreme leader',
+    location: 'India',
   },
 
   seo: {
